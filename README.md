@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **falgunibhavsar310@gmail.com**
 
-- 📄 Know about me [file:///C:/Users/ATM/OneDrive/Desktop/FalguniBhavsar_Resume.pdf](file:///C:/Users/ATM/OneDrive/Desktop/FalguniBhavsar_Resume.pdf)
+- 📄 Know about me [Click here to view my Resume](https://drive.google.com/file/d/1lueWNrI1s30CroQypdqmwT4MFVNafYnh/view)
 
 - ⚡ Fun fact **I am funny😁**
 
