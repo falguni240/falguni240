@@ -3,7 +3,6 @@
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvGbeUt1zLEpz-G123azyxqOos5FB-5of3cA&s" align="right" width="200" alt="coding">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=falguni240&label=Profile%20views&color=0e75b6&style=flat" alt="falguni240" /> </p>
 
 - 🌱 I’m currently learning **python full stack.**
 
