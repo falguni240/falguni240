@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/falguni-bhavsar" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="falguni bhavsar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/falguni-bhavsar-b24291350/?isSelfProfile=true" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="falguni bhavsar" height="30" width="40" /></a>
 <a href="https://kaggle.com/falguni240" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="falguni240" height="30" width="40" /></a>
 <a href="https://instagram.com/falguni_240" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="falguni_240" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/falguni_240" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="falguni_240" height="30" width="40" /></a>
